@@ -10,7 +10,7 @@ Olá, eu sou André Vieira, especialista em CyberSecurity e Infraestrutura com 2
 
 * Descrição: Implementei uma solução de segurança de rede para ambiente privados e públicos como Exército Brasileiro e Industria na área da saúde, aeroespacial e educaional com mais de 20 mil empregados.
 * Objetivo: Proteger a rede da empresa contra ataques cibernéticos e violações de segurança, infraestrutura redundante em caso de desastre.
-* Responsabilidades: Configuração de firewalls, implementação de políticas de segurança, configuração de sistemas de detecção de intrusos.
+* Responsabilidades: Configuração de firewalls, segregação e ambiente, implementação de segurança em ambiente IoT, implementação de políticas de segurança, configuração de sistemas de detecção de intrusos.
 * Resultados: Redução de 90% nos ataques cibernéticos e violações de segurança.
 
 ### 2. Análise de Vulnerabilidades
