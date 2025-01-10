@@ -30,7 +30,7 @@ Olá, eu sou André Vieira, especialista em CyberSecurity e Infraestrutura com 2
 **Experiências**
 
 ### 1.  Segurança Cibernética e Infraestrutura
-*  Segurança com opensource Pfsense, SNORT, SURICATA e SPLUNK(SOC) e firewalls como Fortinet.
+*  Segurança com opensource Pfsense, SNORT, SURICATA e SPLUNK(SOC) e firewall como Fortinet.
 *  Ambientes misto com Linux e Windows
 *  Redes metropolitanas no qual a comunicação entre filial e matriz via MPLS, VPN Site-to-Site.
 *  Redundância de conectividade com SD-WAN Fortinet.
