@@ -114,6 +114,30 @@ Olá, eu sou André Vieira, especialista em CyberSecurity e Infraestrutura com 2
 ![Information_Security](https://img.shields.io/badge/Information_Security-FF4F4F?logo=security&logoColor=white&style=flat-square)
 ![Generative_AI](https://img.shields.io/badge/Generative_AI-FFC107?logo=ai&logoColor=black&style=flat-square)
 
+
+### Sistemas Operacionais
+
+- 💻 **Windows:** Domínio na administração e otimização de ambientes Windows Server, incluindo Windows Server 2012 e anteriores.
+- 🐧 **Linux:** Proficiente em gerenciamento de servidores Linux, com experiência em distribuições como Ubuntu, CentOS e RedHat.
+
+### Contêineres e Orquestração
+
+- 🐳 **Docker:** Especialista em contêineres Docker para implementação simplificada e portabilidade de aplicações.
+
+### Ferramentas de Controle de Versão e Integração Contínua
+
+- 🛠️ **GitLab:** Experiente em integração contínua, entrega contínua e controle de versão com o GitLab, incluindo o uso de GitLab CI/CD para automatização de pipelines.
+
+### Automação e Scripting
+
+- 💪 **PowerShell:** Mestre na automação de tarefas e scripting para facilitar processos repetitivos em ambientes Windows.
+- 🐍 **Python:** Experiência em desenvolvimento de scripts Python para automação de tarefas operacionais e administração de sistemas.
+
+### Infraestrutura como Código e Gestão de Configuração
+
+- ⚙️ **Ansible:** Experiência em automação de configuração e gestão de infraestrutura com Ansible, facilitando a implantação e a manutenção de servidores.
+
+
 ## 📌 Informações de Contato
 
 - 🏠 Localização: São José dos Campos, São Paulo, Brasil
