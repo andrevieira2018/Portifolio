@@ -39,8 +39,6 @@ Olá, eu sou André Vieira, especialista em CyberSecurity e Infraestrutura com 2
 
 ## 📌 Informações de Contato
 
-<img src="https://raw.githubusercontent.com/elias-andrade-devops/Elias-Andrade-Devops-2024/main/chrome_kpuiYlsq9Q.png" alt="Imagem responsiva de Elias Andrade" style="max-width: 100%; height: auto;" />
-
 - 🏠 Localização: São José dos Campos, São Paulo, Brasil
 - 📧 E-mail: andre@cloudapv.online
 - 📱 WhatsApp: +55 12 974122482
